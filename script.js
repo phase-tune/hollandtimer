@@ -1,6 +1,6 @@
 class CountdownTimer {
     constructor() {
-        this.targetDate = new Date('2026-09-06T17:00:00');
+        this.targetDate = new Date('2027-01-27T17:00:00');
         this.elements = {
             days: document.getElementById('days'),
             hours: document.getElementById('hours'),
